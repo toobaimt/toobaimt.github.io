@@ -9,3 +9,22 @@ I am a PhD candidate in Electrical Engineering at [Northeastern University](http
 Previously, I worked as an AI and ML consultant with [Endress+Hauser, Germany](https://www.endress.com/en). I completed my Masters in EE at the [Robotics and Computer Vision](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01) lab at [KAIST, South Korea](https://www.kaist.ac.kr/en/). I worked on occlusion‐robust vehicle re‐identification, and on utilizing adversarial attacks for understanding deep networks with relevant publications.
 
 Besides my academic interests, I enjoy public speaking, community service, and reading biographies.
+
+## Research Interests
+- Self-supervised continual learning 
+- Adversarial attacks for robust and interpretable ML
+- 3D representation learning and reconstruction
+- 2D-object detection/segmentation and tracking
+
+## News
+- [05/01/2023] Will be working as a workflow chair for AAAI 2024
+
+## Publications
+
+## Academic Service
+- Workflow Chair
+  - AAAI 2024
+- Conference Reviewer
+  - ICCV 2023
+- Volunteer
+  - ICML 2022
