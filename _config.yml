@@ -49,13 +49,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  google-scholar: citations?user=qR1LfG8AAAAJ&hl=en
   email: "imtiaz.t@northeastern.edu"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: toobaimt
   twitter: tooba502
-  linkedin: tooba-imtiaz-2738b9116
-  google-scholar: citations?user=qR1LfG8AAAAJ&hl=en
+  # linkedin: tooba-imtiaz-2738b9116
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
