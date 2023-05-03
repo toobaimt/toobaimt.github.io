@@ -17,9 +17,15 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 - 2D-object detection/segmentation and tracking
 
 ## News
-- [05/01/2023] Will be working as a workflow chair for AAAI 2024
+- [05/01/2023] Will be serving as a workflow chair for AAAI 2024
+- [12/01/2022] Passed my PhD Qualification Exam
+- [09/01/2021] Started my PhD at Northeastern University, under the supervision of Professor Jennifer Dy
+- [09/01/2020] Starting working as external consultant for ML/AI at Endress+Hauser, Germany
+- [05/28/2020] Completed my MS in Electrical Engineering at KAIST
 
 ## Publications
+
+## Ongoing Projects
 
 ## Academic Service
 - Workflow Chair
