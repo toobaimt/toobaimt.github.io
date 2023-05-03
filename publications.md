@@ -4,5 +4,5 @@ title: Publications
 # subtitle: PhD Student | Computer Vision/Machine Learning
 ---
 
-## SAIF: Sparse Adversarial and Interpretable Attack Framework
+**SAIF: Sparse Adversarial and Interpretable Attack Framework**
 Pre-print
