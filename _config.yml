@@ -21,7 +21,7 @@ author: Tooba Imtiaz
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "/assets/files/TI_Resume_Apr12.pdf"
+  Resumé: "/assets/files/TI_Resume_Apr12.pdf"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -99,7 +99,7 @@ share-links-active:
 url-pretty: "toobaimt.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-# excerpt_length: 50
+excerpt_length: 5000
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
