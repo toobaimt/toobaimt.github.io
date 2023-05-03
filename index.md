@@ -14,7 +14,7 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 - Self-supervised continual learning 
 - Adversarial attacks for robust and interpretable ML
 - 3D representation learning and reconstruction
-- 2D-object detection/segmentation and tracking
+- 2D-object detection, segmentation and tracking
 
 ## News
 - [05/01/2023] Will be serving as a workflow chair for AAAI 2024
