@@ -6,7 +6,7 @@ subtitle: PhD Student | Computer Vision/Machine Learning
 
 I am a PhD candidate in Electrical Engineering at [Northeastern University](https://www.northeastern.edu/), working with the [Machine Learning group @ SPIRAL](https://web.northeastern.edu/spiral/) supervised by [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en). My current research interests include continual learning, adversarial attacks, and leveraging them for transparent and interpretable machine learning. Additionally, I have worked on unsupervised 3D reconstruction and classification, time-series forecasting and implicit neural networks. 
 
-Previously, I worked as an AI and ML consultant with [Endress+Hauser, Germany](https://www.endress.com/en). I completed my Masters in EE at the [Robotics and Computer Vision](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01) lab at [KAIST, South Korea](https://www.kaist.ac.kr/en/). I worked on occlusion‐robust vehicle re‐identification, and on utilizing adversarial attacks for understanding deep networks with relevant publications.
+Previously, I worked as an AI and ML consultant with [Endress+Hauser, Germany](https://www.endress.com/en). I completed my Masters in EE at the [Robotics and Computer Vision](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01) lab at [KAIST, South Korea](https://www.kaist.ac.kr/en/), under the supervision of [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ). I worked on occlusion‐robust vehicle re‐identification, and on utilizing adversarial attacks for understanding deep networks with relevant publications.
 
 Besides my academic interests, I enjoy public speaking, community service, and reading biographies.
 
@@ -17,11 +17,12 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 - 2D-object detection, segmentation and tracking
 
 ## News
-- [05/01/2023] Will be serving as a workflow chair for AAAI 2024
+- [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/)
 - [12/01/2022] Passed my PhD Qualification Exam
-- [09/01/2021] Started my PhD at Northeastern University, under the supervision of Professor Jennifer Dy
-- [09/01/2020] Starting working as external consultant for ML/AI at Endress+Hauser, Germany
-- [05/28/2020] Completed my MS in Electrical Engineering at KAIST
+- [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022)
+- [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en)
+- [09/01/2020] Starting working as External Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en)
+- [05/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ)
 
 ## Publications
 
