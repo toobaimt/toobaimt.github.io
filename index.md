@@ -23,6 +23,8 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 - [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en)
 - [09/01/2020] Starting working as External Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en)
 - [05/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ)
+- []
+- []
 
 ## Publications
 
