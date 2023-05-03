@@ -21,10 +21,11 @@ author: Tooba Imtiaz
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://toobaimt.com"
+  Resume: "/assets/files/TI_Resume_Apr12.pdf"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://toobaimt.com"
 
 ################
 # --- Logo --- #
@@ -98,7 +99,7 @@ share-links-active:
 url-pretty: "toobaimt.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+# excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -127,7 +128,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#556B2F" #"#0A5A2E" # "#EAEAEA" # gray
-navbar-text-col: "#404040" #"#404040" # charcoal #FFFFFF
+navbar-text-col: "#FFFFFF" # charcoal #FFFFFF #404040
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF" # white
 text-col: "#404040"
@@ -170,7 +171,7 @@ footer-hover-col: "#0085A1"
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "G-RLKKRG9TZ6"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
