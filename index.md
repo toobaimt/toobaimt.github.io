@@ -31,9 +31,6 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 ## Ongoing Projects
 
 ## Academic Service
-- Workflow Chair
-  - AAAI 2024
-- Conference Reviewer
-  - ICCV 2023
-- Volunteer
-  - ICML 2022
+- Workflow Chair: AAAI 2024
+- Conference Reviewer: ICCV 2023
+- Volunteer: ICML 2022
