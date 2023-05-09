@@ -17,16 +17,19 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 - 2D-object detection, segmentation and tracking
 
 ## News
-- [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/)
-- [12/01/2022] Passed my PhD Qualification Exam
-- [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022)
-- [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en)
-- [09/01/2020] Starting working as External Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en)
-- [05/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ)
-- []
-- []
+- [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
+- [12/01/2022] Passed my PhD Qualification Exam.
+- [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022).
+- [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en).
+- [09/01/2020] Starting working as a Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en) (remote).
+- [06/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of Professor In So Kweon.
+- [06/15/2020] Successfully defended my Master's thesis titled "Occlusion-Robust Object Re-identification".
+- [12/20/2019] Gave an invited talk about my research on adversarial attacks at [KEEP-I (KAIST EE Partners - International)](https://ee.kaist.ac.kr/en/event/17315/).
+- [09/06/2019] Delivered an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
+- [09/01/2018] Started my Master's at KAIST supervised by [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ).
 
 ## Publications
+- []
 
 ## Ongoing Projects
 
