@@ -28,8 +28,8 @@ Besides my academic interests, I enjoy public speaking, community service, and r
 - [09/06/2019] Delivered an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
 - [09/01/2018] Started my Master's at KAIST supervised by [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ).
 
-## Publications
-- []
+<!-- ## Publications
+- [] -->
 
 ## Ongoing Projects
 
