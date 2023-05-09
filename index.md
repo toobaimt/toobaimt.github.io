@@ -8,7 +8,7 @@ I am a PhD candidate in Electrical Engineering at [Northeastern University](http
 
 Previously, I worked as an AI and ML consultant with [Endress+Hauser, Germany](https://www.endress.com/en). I completed my Masters in EE at the [Robotics and Computer Vision](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01) lab at [KAIST, South Korea](https://www.kaist.ac.kr/en/), under the supervision of [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ). I worked on occlusion‐robust vehicle re‐identification, and on utilizing adversarial attacks for understanding deep networks with relevant publications.
 
-Besides my academic interests, I enjoy public speaking, community service, and reading biographies.
+Besides my academic interests, I enjoy community service and reading biographies.
 
 ## Research Interests
 - Self-supervised continual learning 
