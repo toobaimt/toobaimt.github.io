@@ -18,7 +18,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 
 ## News
 - [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
-- [12/01/2022] Passed my PhD Qualification Exam.
+- [12/01/2022] Passed my PhD Qualification Exam. :grinning:
 - [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022).
 - [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en).
 - [09/01/2020] Starting working as a Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en) (remote).
