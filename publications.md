@@ -6,7 +6,7 @@ title: Publications
 
 [**SAIF: Sparse Adversarial and Interpretable Attack Framework**](https://arxiv.org/abs/2212.07495)\
 *Pre-print*\
-**Tooba Imtiaz**, Morgan Kohler, Jared Miller, Zifeng Wang, Mario Sznaier, Octavia Camps, Jennifer Dy, Northeastern University, USA
+**Tooba Imtiaz**, Morgan Kohler, Jared Miller, Zifeng Wang, Mario Sznaier, Octavia Camps, Jennifer Dy. Northeastern University, USA
 
 [**Volumetric propagation network: Stereo-lidar fusion for long-range depth estimation**](https://arxiv.org/pdf/2103.12964)\
 *IEEE Robotics and Automation Letters, 2021*\
