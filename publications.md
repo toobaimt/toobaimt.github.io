@@ -12,7 +12,7 @@ title: Publications
 *IEEE Robotics and Automation Letters, 2021*\
 Jaesung Choe, Kyungdon Joo, **Tooba Imtiaz**, In So Kweon
 
-[**Cd-uap: Class discriminative universal adversarial perturbation**](https://ojs.aaai.org/index.php/AAAI/article/download/6154/6010)\
+[**CD-UAP: Class discriminative universal adversarial perturbation**](https://ojs.aaai.org/index.php/AAAI/article/download/6154/6010)\
 *Proceedings of the AAAI Conference on Artificial Intelligence, 2020*\
 Chaoning Zhang, Philipp Benz, **Tooba Imtiaz**, In-So Kweon
 
