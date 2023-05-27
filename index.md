@@ -16,9 +16,10 @@ Besides my academic interests, I enjoy community service and reading biographies
 - 3D representation learning and reconstruction
 - 2D-object detection, segmentation and tracking
 
+
 ## Work Experience
 <img src="assets/img/neu_logo.png" float="left" width="80" height="80"/> Sept 2021 - Present\
-Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/)
+Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/).
 
 <img src="assets/img/EH.jpg" width="80" height="80"/> Sept 2020 - Aug 2021\
 External Consultant for ML and AI
@@ -28,6 +29,7 @@ Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://r
 
 <img src="assets/img/nust.png" width="80" height="80"/> Sept 2015 - May 2018\
 Research Intern, [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
+
 
 ## News
 - [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
