@@ -26,7 +26,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 <!-- <img src="assets/img/neu_logo.png" float="left" width="80" height="80"/> Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/). -->
 
-<img src="assets/img/EH.jpg" width="80" height="80"/> Sept 2020 - Aug 2021\
+<img src="assets/img/EH.jpg" width="80" height="80" style="float: left"/> Sept 2020 - Aug 2021\
 External Consultant for ML and AI
 
 <img src="assets/img/kaist.png" width="80" height="80"/> Sept 2018 - Aug 2020\
