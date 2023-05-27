@@ -22,7 +22,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 <p float="left">
   <img src="assets/img/neu_logo.png" alt="Image Alt Text" width="50" />
   <br/> Sept 2021 - Present.
-  <br/> Graduate Research Assistant at Machine Learning Lab, </a href="https://web.northeastern.edu/spiral/"> SPIRAL</a>
+  <br/> Graduate Research Assistant at Machine Learning Lab, <a href="https://web.northeastern.edu/spiral/"> SPIRAL</a>
 </p>
 
 <img src="assets/img/EH.jpg" width="50" height="50"/> Sept 2020 - August 2021\
