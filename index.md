@@ -16,6 +16,18 @@ Besides my academic interests, I enjoy community service and reading biographies
 - 3D representation learning and reconstruction
 - 2D-object detection, segmentation and tracking
 
+## Work Experience
+<img src="assets/img/neu_logo.png" width="200" height="200"/> Sept 2021 - Present\
+Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/)
+
+<img src="assets/img/EH.jpg" width="200" height="200"/> Sept 2020 - August 2021\
+External Consultant for ML and AI
+
+<img src="assets/img/kaist.png" width="200" height="200"/> Sept 2018 - May 2020\
+Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01)
+
+<img src="assets/img/nust.png" width="200" height="200"/> 
+
 ## News
 - [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
 - [12/01/2022] Passed my PhD Qualification Exam.
@@ -28,10 +40,10 @@ Besides my academic interests, I enjoy community service and reading biographies
 - [09/06/2019] Delivered an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
 - [09/01/2018] Started my Master's at KAIST supervised by [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ).
 
-<!-- ## Publications
-- [] -->
-
 ## Ongoing Projects
+
+## Teaching
+- EECE7397 Advanced Machine Learning, Northeastern University. (Teaching Assistant with Professor Jennifer Dy).
 
 ## Academic Service
 - Workflow Chair: AAAI 2024
