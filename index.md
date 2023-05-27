@@ -17,18 +17,13 @@ Besides my academic interests, I enjoy community service and reading biographies
 - 2D-object detection, segmentation and tracking
 
 ## Work Experience
-<!-- <img src="assets/img/neu_logo.png" width="50" height="50"/> Sept 2021 - Present\
-Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/) -->
-<p float="left">
-  <img src="assets/img/neu_logo.png" alt="Image Alt Text" width="100" />
-  <br/> Sept 2021 - Present.
-  <br/> Graduate Research Assistant at Machine Learning Lab, <a href="https://web.northeastern.edu/spiral/"> SPIRAL</a>
-</p>
+<img src="assets/img/neu_logo.png" width="80" height="80"/> Sept 2021 - Present\
+Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/)
 
-<img src="assets/img/EH.jpg" width="80" height="80"/> Sept 2020 - August 2021\
+<img src="assets/img/EH.jpg" width="80" height="80"/> Sept 2020 - Aug 2021\
 External Consultant for ML and AI
 
-<img src="assets/img/kaist.png" width="80" height="80"/> Sept 2018 - August 2020\
+<img src="assets/img/kaist.png" width="80" height="80"/> Sept 2018 - Aug 2020\
 Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01)
 
 <img src="assets/img/nust.png" width="80" height="80"/> Sept 2015 - May 2018\
