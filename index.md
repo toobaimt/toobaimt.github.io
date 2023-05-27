@@ -17,7 +17,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 - 2D-object detection, segmentation and tracking
 
 ## Work Experience
-<img src="assets/img/neu_logo.png" width="80" height="80"/> Sept 2021 - Present\
+<img src="assets/img/neu_logo.png" float="left" width="80" height="80"/> Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/)
 
 <img src="assets/img/EH.jpg" width="80" height="80"/> Sept 2020 - Aug 2021\
