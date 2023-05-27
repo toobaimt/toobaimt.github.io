@@ -22,22 +22,24 @@ Besides my academic interests, I enjoy community service and reading biographies
 Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/). -->
 <img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Present\
-Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/).
+&nbsp;&nbsp; Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/).
 
 
 
 <img src="assets/img/EH.jpg" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2020 - Aug 2021\
-External Consultant for ML and AI
+&nbsp;&nbsp; External Consultant for ML and AI
 
 
 
 <img src="assets/img/kaist.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2018 - Aug 2020\
-Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01)
+&nbsp;&nbsp; Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01)
 
 
 
 <img src="assets/img/nust.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2015 - May 2018\
-Research Intern, [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
+&nbsp;&nbsp; Research Intern, [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
+
+
 
 
 
