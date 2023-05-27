@@ -40,6 +40,7 @@ Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://r
 Research Intern, [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
 
 
+
 ## News
 - [05/01/2023] Will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
 - [12/01/2022] Passed my PhD Qualification Exam.
