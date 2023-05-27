@@ -20,7 +20,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 <!-- <img src="assets/img/neu_logo.png" width="50" height="50"/> Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/) -->
 <p float="left">
-  <img src="assets/img/neu_logo.png" alt="Image Alt Text" width="10" />
+  <img src="assets/img/neu_logo.png" alt="Image Alt Text" width="50" />
   <br/> Sept 2021 - Present.
   <br/> Graduate Research Assistant at Machine Learning Lab, </a href="https://web.northeastern.edu/spiral/"> SPIRAL</a>
 </p>
