@@ -26,7 +26,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 
 
 
-<img src="assets/img/EH.jpg" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2020 - Aug 2021\
+<img src="assets/img/EH.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2020 - Aug 2021\
 &nbsp;&nbsp; External Consultant for ML and AI
 
 
