@@ -37,7 +37,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 
 
 <img src="assets/img/nust.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2015 - May 2018\
-&nbsp;&nbsp; Research Intern, [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
+&nbsp;&nbsp; Research Intern at [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
 
 
 
@@ -59,7 +59,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 Updating soon.
 
 ## Teaching
-- EECE7397 Advanced Machine Learning, Northeastern University. (Teaching Assistant with Professor Jennifer Dy).
+- [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University. (Teaching Assistant with Professor Jennifer Dy).
 
 ## Academic Service
 - Workflow Chair: AAAI 2024
