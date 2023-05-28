@@ -59,7 +59,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 Updating soon.
 
 ## Teaching
-- [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University. (Teaching Assistant with Professor Jennifer Dy).
+- [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University: Teaching Assistant with Professor Jennifer Dy.
 
 ## Academic Service
 - Workflow Chair: AAAI 2024
