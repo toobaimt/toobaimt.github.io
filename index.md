@@ -13,8 +13,8 @@ Besides my academic interests, I enjoy community service and reading biographies
 ## Research Interests
 - Self-supervised continual learning 
 - Adversarial attacks for robust and interpretable ML
-- 3D representation learning and reconstruction
-- 2D-object detection, segmentation and tracking
+- 3D object detection, representation learning and reconstruction
+- 2D object detection, segmentation and tracking
 
 
 ## Work Experience
