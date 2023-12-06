@@ -4,7 +4,7 @@ title: Publications
 # subtitle: PhD Student | Computer Vision/Machine Learning
 ---
 
-[**SAIF: Sparse Adversarial and Interpretable Attack Framework**](https://arxiv.org/abs/2212.07495)\
+[**SAIF: Sparse Adversarial and Imperceptible Attack Framework**](https://arxiv.org/abs/2212.07495)\
 *Pre-print*\
 **Tooba Imtiaz**, Morgan Kohler, Jared Miller, Zifeng Wang, Mario Sznaier, Octavia Camps, Jennifer Dy. Northeastern University, USA
 
