@@ -22,7 +22,7 @@ author: Tooba Imtiaz
 navbar-links:
   # About Me: "aboutme"
   Publications: "publications"
-  Resumé: "/assets/files/TI_Resume_Oct.pdf"
+  Resumé: "assets/files/ToobaImtiaz_Resume.pdf"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
