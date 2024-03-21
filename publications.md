@@ -4,6 +4,10 @@ title: Publications
 # subtitle: PhD Student | Computer Vision/Machine Learning
 ---
 
+[**ADAPT to Robustify Prompt Tuning Vision Transformers**](https://arxiv.org/abs/2403.13196)\
+*Pre-print*\
+Masih Eskandar, **Tooba Imtiaz**, Zifeng Wang, Jennifer Dy. Northeastern University, USA
+
 [**SAIF: Sparse Adversarial and Imperceptible Attack Framework**](https://arxiv.org/abs/2212.07495)\
 *Pre-print*\
 **Tooba Imtiaz**, Morgan Kohler, Jared Miller, Zifeng Wang, Mario Sznaier, Octavia Camps, Jennifer Dy. Northeastern University, USA
