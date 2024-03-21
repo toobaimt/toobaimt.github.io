@@ -44,7 +44,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 
 
 ## News
-- [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer! :star2:
+- [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer!
 - [05/01/2023] I will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
 - [12/01/2022] Passed my PhD Qualification Exam.
 - [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022).
