@@ -20,7 +20,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 ## Work Experience
 <!-- ![image](assets/img/neu_logo.png){: style="float: left; width=80"}
 Sept 2021 - Present\
-Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/). -->
+Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 <img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Present\
 &nbsp;&nbsp; Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northeastern.edu/spiral/)
 
@@ -48,7 +48,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://web.northe
 - [05/01/2023] I will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
 - [12/01/2022] Passed my PhD Qualification Exam.
 - [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022).
-- [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en).
+- [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://mllabneu.github.io/).
 - [09/01/2020] Starting working as a Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en) (remote).
 - [06/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of Professor In So Kweon.
 - [06/15/2020] Successfully defended my Master's thesis titled "Occlusion-Robust Object Re-identification".
