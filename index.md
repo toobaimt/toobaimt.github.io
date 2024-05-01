@@ -64,5 +64,5 @@ Updating soon.
 
 ## Academic Service
 - Workflow Chair: AAAI 2024
-- Conference Reviewer: CVPR 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
+- Conference Reviewer: ECCV 2024, CVPR 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
 - Volunteer: ICML 2022
