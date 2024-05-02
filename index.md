@@ -22,7 +22,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 
-<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May 2024 - Present\
+<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May 2024 ~ \
 &nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Google LA
 
 
