@@ -23,7 +23,7 @@ Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 
 <img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May 2024 - Present\
-&nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Los Angeles
+&nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Google LA
 
 
 <img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Present\
