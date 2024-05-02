@@ -22,7 +22,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 <img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Present\
-&nbsp;&nbsp; Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/)
+&nbsp;&nbsp; Graduate Research Assistant at [Machine Learning Lab](https://mllabneu.github.io/), [SPIRAL](https://web.northeastern.edu/spiral/)
 
 
 
