@@ -22,7 +22,11 @@ Besides my academic interests, I enjoy community service and reading biographies
 Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 
-<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May 2024 ~ \
+<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; September 2024 ~ \
+&nbsp;&nbsp; Student Researcher, [Project Starline](https://blog.google/technology/research/project-starline/), Google Cambridge, MA
+
+
+<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May - August 2024 \
 &nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Google LA
 
 
@@ -62,13 +66,13 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 - [09/06/2019] Delivered an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
 - [09/01/2018] Started my Master's at KAIST supervised by [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ).
 
-## Ongoing Projects
-Updating soon.
+<!-- ## Selected Projects
+Updating soon. -->
 
 ## Teaching
 - [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University: Teaching Assistant with Professor Jennifer Dy.
 
 ## Academic Service
 - Workflow Chair: AAAI 2024
-- Conference Reviewer: ECCV 2024, CVPR 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
+- Conference Reviewer: CVPR, ECCV, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
 - Volunteer: ICML 2022
