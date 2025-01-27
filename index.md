@@ -11,6 +11,7 @@ Previously, I worked as an AI and ML consultant with [Endress+Hauser, Germany](h
 Besides my academic interests, I enjoy community service and reading biographies.
 
 ## Research Interests
+- 3D reconstruction
 - Self-supervised continual learning 
 - Adversarial attacks for robust and interpretable ML
 - 3D object detection, representation learning and reconstruction
