@@ -4,11 +4,11 @@ title: Publications
 # subtitle: PhD Student | Computer Vision/Machine Learning
 ---
 [**STAR: Stability-Inducing Weight Perturbation for Continual Learning**](https://openreview.net/forum?id=6N5OM5Duuj)\
-*ICLR 2025*\
+*International Conference on Learning Representations (ICLR) 2025*\
 Masih Eskandar, **Tooba Imtiaz**, Davin Hill, Zifeng Wang, Jennifer Dy. Northeastern University, USA
 
 [**ADAPT to Robustify Prompt Tuning Vision Transformers**](https://arxiv.org/abs/2403.13196)\
-*TMLR*\
+*Transactions on Machine Learning Research (TMLR)*\
 Masih Eskandar, **Tooba Imtiaz**, Zifeng Wang, Jennifer Dy. Northeastern University, USA
 
 [**SAIF: Sparse Adversarial and Imperceptible Attack Framework**](https://arxiv.org/abs/2212.07495)\
