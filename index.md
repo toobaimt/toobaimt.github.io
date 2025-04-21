@@ -55,6 +55,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 
 
 ## News
+- [04/20/2025] I will be interning with the Pixel Biometrics team at Google this Summer!
 - [01/22/2025] Our paper ["STAR: Stability-Inducing Weight Perturbation for Continual Learning"](https://openreview.net/forum?id=6N5OM5Duuj) got accepted at ICLR 2025.
 - [01/05/2025] Our paper ["ADAPT to Robustify Prompt Tuning Vision Transformers"](https://arxiv.org/pdf/2403.13196) got accepted at TMLR.
 - [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer!
