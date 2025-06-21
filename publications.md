@@ -8,11 +8,11 @@ title: Publications
 Masih Eskandar, **Tooba Imtiaz**, Davin Hill, Zifeng Wang, Jennifer Dy. Northeastern University, USA
 
 [**ADAPT to Robustify Prompt Tuning Vision Transformers**](https://arxiv.org/abs/2403.13196)\
-*Transactions on Machine Learning Research (TMLR)*\
+*Transactions on Machine Learning Research (TMLR), 2025*\
 Masih Eskandar, **Tooba Imtiaz**, Zifeng Wang, Jennifer Dy. Northeastern University, USA
 
 [**SAIF: Sparse Adversarial and Imperceptible Attack Framework**](https://arxiv.org/abs/2212.07495)\
-*Pre-print*\
+*Transactions on Machine Learning Research (TMLR), 2025*\
 **Tooba Imtiaz**, Morgan Kohler, Jared Miller, Zifeng Wang, Mario Sznaier, Octavia Camps, Jennifer Dy. Northeastern University, USA
 
 [**Volumetric propagation network: Stereo-lidar fusion for long-range depth estimation**](https://arxiv.org/pdf/2103.12964)\
