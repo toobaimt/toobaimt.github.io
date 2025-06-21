@@ -23,12 +23,16 @@ Besides my academic interests, I enjoy community service and reading biographies
 Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 
-<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; September 2024 ~ \
-&nbsp;&nbsp; Student Researcher, [Project Starline](https://blog.google/technology/research/project-starline/), Google Cambridge, MA
+<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; June 2025 ~ \
+&nbsp;&nbsp; Student Researcher, Pixel Biometrics, Google, Seattle WA
+
+
+<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; September 2024 - May 2025 \
+&nbsp;&nbsp; Student Researcher, [Project Starline](https://blog.google/technology/research/project-starline/), Google, Cambridge MA
 
 
 <img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May - August 2024 \
-&nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Google LA
+&nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Google, Playa Vista LA
 
 
 
