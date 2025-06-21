@@ -27,7 +27,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 &nbsp;&nbsp; Student Researcher, Pixel Biometrics, Google, Seattle WA
 
 
-<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; September 2024 - May 2025 \
+<img src="assets/img/google_logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2024 - May 2025 \
 &nbsp;&nbsp; Student Researcher, [Project Starline](https://blog.google/technology/research/project-starline/), Google, Cambridge MA
 
 
