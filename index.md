@@ -27,11 +27,11 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 
 
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px" alt="Google logo consisting of a bold uppercase G in red, yellow, green, and blue segments. The logo is set against a plain background and conveys a professional and modern tone."/> &nbsp;&nbsp; Sept 2024 - May 2025 \
-&nbsp;&nbsp; Student Researcher, [Google Beam/Project Starline](https://starline.google/), Google, Cambridge MA
+&nbsp;&nbsp; Student Researcher, [Google Beam](https://starline.google/), Google, Cambridge MA
 
 
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May - August 2024 \
-&nbsp;&nbsp; Research Intern, [Google Beam/Project Starline](https://starline.google/), Google, Playa Vista LA
+&nbsp;&nbsp; Research Intern, [Google Beam](https://starline.google/), Google, Playa Vista LA
 
 
 
