@@ -4,15 +4,14 @@ title: Tooba Imtiaz
 subtitle: PhD Student | Computer Vision/Machine Learning
 ---
 
-I am a PhD candidate in Electrical Engineering at [Northeastern University](https://www.northeastern.edu/), working with the [Machine Learning group @ SPIRAL](https://mllabneu.github.io/) supervised by [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en). My current research interests include continual learning, adversarial attacks, and leveraging them for transparent and interpretable machine learning. Additionally, I have worked on unsupervised 3D reconstruction and classification, time-series forecasting and implicit neural networks. 
+I am a PhD candidate in Electrical Engineering at [Northeastern University](https://www.northeastern.edu/), working with the [Machine Learning group @ SPIRAL](https://mllabneu.github.io/) supervised by [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en). My current research interests include 3D computer vision (particularly 3D reconstruction and novel-view synthesis), generative modeling, continual learning, adversarial attacks, and leveraging them for interpretability. Additionally, I have worked on unsupervised 3D reconstruction and classification, time-series forecasting and implicit neural networks. 
 
-Previously, I worked as an AI and ML consultant with [Endress+Hauser, Germany](https://www.endress.com/en). I completed my Masters in EE at the [Robotics and Computer Vision](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01) lab at [KAIST, South Korea](https://www.kaist.ac.kr/en/), under the supervision of [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ). I worked on occlusion‐robust vehicle re‐identification, and on utilizing adversarial attacks for understanding deep networks with relevant publications.
+I am concurrently a Student Researcher with Google Pixel Biometrics AI Research (BAIR), where I am working on Generative AI. Previously, I interned with Google's Project Starline (now Google Beam) and developed a novel framework for efficient and scalable 3D reconstruction and NVS.
 
 Besides my academic interests, I enjoy community service and reading biographies.
 
 ## Research Interests
-- 3D reconstruction
-- Self-supervised continual learning 
+- 3D computer vision (reconstruction, diffusion models)
 - Adversarial attacks for robust and interpretable ML
 - 3D object detection, representation learning and reconstruction
 - 2D object detection, segmentation and tracking
@@ -24,15 +23,15 @@ Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; June 2025 ~ \
-&nbsp;&nbsp; Student Researcher, Pixel Biometrics, Google, Seattle WA
+&nbsp;&nbsp; Student Researcher, Pixel Biometrics AI Research (BAIR), Google, Seattle WA
 
 
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px" alt="Google logo consisting of a bold uppercase G in red, yellow, green, and blue segments. The logo is set against a plain background and conveys a professional and modern tone."/> &nbsp;&nbsp; Sept 2024 - May 2025 \
-&nbsp;&nbsp; Student Researcher, [Project Starline](https://blog.google/technology/research/project-starline/), Google, Cambridge MA
+&nbsp;&nbsp; Student Researcher, [Google Beam/Project Starline](https://starline.google/), Google, Cambridge MA
 
 
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May - August 2024 \
-&nbsp;&nbsp; Research Intern, [Project Starline](https://blog.google/technology/research/project-starline/), Google, Playa Vista LA
+&nbsp;&nbsp; Research Intern, [Google Beam/Project Starline](https://starline.google/), Google, Playa Vista LA
 
 
 
@@ -59,6 +58,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 
 
 ## News
+- [08/10/2025] Thrilled to share that my research internship work with Google Beam, LVT: Large-Scale Scene Reconstruction via Local View Transformers, got accepted at SIGGRAPH Asia 2025!
 - [04/20/2025] I will be interning with the Pixel Biometrics team at Google this Summer!
 - [01/22/2025] Our paper ["STAR: Stability-Inducing Weight Perturbation for Continual Learning"](https://openreview.net/forum?id=6N5OM5Duuj) got accepted at ICLR 2025.
 - [01/05/2025] Our paper ["ADAPT to Robustify Prompt Tuning Vision Transformers"](https://arxiv.org/pdf/2403.13196) got accepted at TMLR.
