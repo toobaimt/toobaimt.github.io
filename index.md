@@ -58,7 +58,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 
 
 ## News
-- [08/10/2025] Thrilled to share that my research internship work with Google Beam, LVT: Large-Scale Scene Reconstruction via Local View Transformers, got accepted at SIGGRAPH Asia 2025!
+- [08/10/2025] Thrilled to share that my research internship work with Google Beam "LVT: Large-Scale Scene Reconstruction via Local View Transformers" got accepted at SIGGRAPH Asia 2025!
 - [04/20/2025] I will be interning with the Pixel Biometrics team at Google this Summer!
 - [01/22/2025] Our paper ["STAR: Stability-Inducing Weight Perturbation for Continual Learning"](https://openreview.net/forum?id=6N5OM5Duuj) got accepted at ICLR 2025.
 - [01/05/2025] Our paper ["ADAPT to Robustify Prompt Tuning Vision Transformers"](https://arxiv.org/pdf/2403.13196) got accepted at TMLR.
