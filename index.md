@@ -84,5 +84,5 @@ Updating soon. -->
 - Workflow Chair: AAAI 2024
   - Managed the AAAI 2024 paper review process for 12,100 submissions, working with 7k reviewers, 765 senior program committee (SPC), and 320 area chairs (AC).
   - Used topic modeling and text similarity to determine reviewer, SPC, and AC assignments.
-- Conference Reviewer: CVPR, ECCV, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
+- Conference Reviewer: NeurIPS 2025, ICLR 2025, CVPR 2024, ECCV 2024, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
 - Volunteer: ICML 2022
