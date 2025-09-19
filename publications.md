@@ -3,7 +3,7 @@ layout: page
 title: Publications
 # subtitle: PhD Student | Computer Vision/Machine Learning
 ---
-**LVT: Large-Scale Scene Reconstruction via Local View Transformers**\
+[**LVT: Large-Scale Scene Reconstruction via Local View Transformers**](https://toobaimt.github.io/lvt/)\
 *ACM SIGGRAPH Asia 2025*\
 **Tooba Imtiaz\***, Lucy Chai\*, Kathryn Heal, Xuan Luo, Jungyeon Park, Jennifer Dy, John Flynn. Google (Research Internship)
 
