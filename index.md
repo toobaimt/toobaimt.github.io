@@ -6,7 +6,7 @@ subtitle: PhD Student | Computer Vision/Machine Learning
 
 I am a PhD candidate in Electrical Engineering at [Northeastern University](https://www.northeastern.edu/), working with the [Machine Learning group @ SPIRAL](https://mllabneu.github.io/) supervised by [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en). My current research interests include 3D computer vision (particularly 3D reconstruction and novel-view synthesis), generative modeling, continual learning, adversarial attacks, and leveraging them for interpretability. Additionally, I have worked on unsupervised 3D reconstruction and classification, time-series forecasting and implicit neural networks. 
 
-I am concurrently a Student Researcher with Google Pixel Biometrics AI Research (BAIR), where I am working on Generative AI. Previously, I interned with Google's Project Starline (now Google Beam) and developed a novel framework for efficient and scalable 3D reconstruction and NVS.
+I am concurrently a Student Researcher with Google Pixel Biometrics AI Research (BAIR), where I am working on Generative AI. Previously, I interned with Google's Project Starline (now Google Beam) and developed a novel feed-forward framework for efficient and scalable 3D reconstruction and NVS, achieving state-of-the-art performance in a single inference pass.
 
 Besides my academic interests, I enjoy community service and reading biographies.
 
