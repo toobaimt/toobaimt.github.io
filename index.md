@@ -58,8 +58,9 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 
 
 ## News
-- [08/10/2025] Thrilled to share that my research internship work with Google Beam "[LVT: Large-Scale Scene Reconstruction via Local View Transformers](https://toobaimt.github.io/lvt/)" got accepted at SIGGRAPH Asia 2025!
-- [04/20/2025] I will be interning with the Pixel Biometrics AI Research team at Google this Summer!
+- [12/01/2025] I will be interning with the Perception Team at [Waymo](https://waymo.com/research/) in Summer 2026.
+- [08/10/2025] Thrilled to share that my research internship work with Google Beam ["LVT: Large-Scale Scene Reconstruction via Local View Transformers"](https://toobaimt.github.io/lvt/) got accepted at SIGGRAPH Asia 2025!
+- [04/20/2025] I will be interning with the Pixel Biometrics AI Research team at Google this Summer.
 - [01/22/2025] Our paper ["STAR: Stability-Inducing Weight Perturbation for Continual Learning"](https://openreview.net/forum?id=6N5OM5Duuj) got accepted at ICLR 2025.
 - [01/05/2025] Our paper ["ADAPT to Robustify Prompt Tuning Vision Transformers"](https://arxiv.org/pdf/2403.13196) got accepted at TMLR.
 - [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer!
@@ -84,5 +85,5 @@ Updating soon. -->
 - Workflow Chair: AAAI 2024
   - Managed the AAAI 2024 paper review process for 12,100 submissions, working with 7k reviewers, 765 senior program committee (SPC), and 320 area chairs (AC).
   - Used topic modeling and text similarity to determine reviewer, SPC, and AC assignments.
-- Conference Reviewer: NeurIPS 2025, ICLR 2025, CVPR 2024, ECCV 2024, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
+- Conference Reviewer: AAAI 2026, NeurIPS 2025, ICLR 2025-26, CVPR 2024, ECCV 2024, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
 - Volunteer: ICML 2022
