@@ -80,7 +80,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/lvt2.png" alt="LVT">
+    <img src="assets/img/pubs/lvt.png" alt="LVT">
   </div>
   <div class="pub-content">
     <h3><a href="https://toobaimt.github.io/lvt/">LVT: Large-Scale Scene Reconstruction via Local View Transformers</a></h3>
@@ -93,7 +93,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/star.png" alt="STAR">
+    <img src="assets/img/pubs/star.png" alt="STAR">
   </div>
   <div class="pub-content">
     <h3><a href="https://openreview.net/forum?id=6N5OM5Duuj">STAR: Stability-Inducing Weight Perturbation for Continual Learning</a></h3>
@@ -106,7 +106,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/saif.png" alt="SAIF">
+    <img src="assets/img/pubs/saif.png" alt="SAIF">
   </div>
   <div class="pub-content">
     <h3><a href="https://arxiv.org/abs/2212.07495">SAIF: Sparse Adversarial and Imperceptible Attack Framework</a></h3>
@@ -119,7 +119,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/adapt.png" alt="ADAPT">
+    <img src="assets/img/pubs/adapt.png" alt="ADAPT">
   </div>
   <div class="pub-content">
     <h3><a href="https://arxiv.org/abs/2403.13196">ADAPT to Robustify Prompt Tuning Vision Transformers</a></h3>
@@ -132,7 +132,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/vpn.png" alt="VPN">
+    <img src="assets/img/pubs/vpn.png" alt="VPN">
   </div>
   <div class="pub-content">
     <h3><a href="https://arxiv.org/pdf/2103.12964">Volumetric Propagation Network: Stereo-LiDAR Fusion for Long-Range Depth Estimation</a></h3>
@@ -145,7 +145,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/cduap.png" alt="CD-UAP">
+    <img src="assets/img/pubs/cduap.png" alt="CD-UAP">
   </div>
   <div class="pub-content">
     <h3><a href="https://ojs.aaai.org/index.php/AAAI/article/download/6154/6010">CD-UAP: Class Discriminative Universal Adversarial Perturbation</a></h3>
@@ -158,7 +158,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/dtuap.png" alt="Double Targeted UAP">
+    <img src="assets/img/pubs/dtuap.png" alt="Double Targeted UAP">
   </div>
   <div class="pub-content">
     <h3><a href="https://openaccess.thecvf.com/content/ACCV2020/papers/Benz_Double_Targeted_Universal_Adversarial_Perturbations_ACCV_2020_paper.pdf">Double Targeted Universal Adversarial Perturbations</a></h3>
@@ -171,20 +171,20 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/understanding-adv.png" alt="Understanding Adversarial Examples from Mutual Influence">
+    <img src="assets/img/pubs/understanding-adv.png" alt="Understanding Adversarial Examples from Mutual Influence">
   </div>
   <div class="pub-content">
     <h3><a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Understanding_Adversarial_Examples_From_the_Mutual_Influence_of_Images_and_CVPR_2020_paper.pdf">Understanding Adversarial Examples From the Mutual Influence of Images and Perturbations</a></h3>
     <p class="pub-conference">Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020</p>
     <p class="pub-authors">Chaoning Zhang*, Philipp Benz*, <strong>Tooba Imtiaz</strong>, In So Kweon. 
     KAIST, S. Korea.</p>
-    <p class="pub-details">We treat DNN logits as feature vectors and use the Pearson correlation coefficient to analyze the mutual influence between independent inputs, enabling a disentangled analysis of clean images and adversarial perturbations. This analysis reveals that universal perturbations contain dominant features while images behave like noise, motivating a new method for generating targeted universal adversarial perturbations from random source images. Our approach is the first to achieve targeted universal attacks without access to original training data and attains performance comparable to state-of-the-art methods using only a proxy dataset.</p>
+    <p class="pub-details">We treat DNN logits as feature vectors and use the Pearson correlation coefficient to analyze the mutual influence between independent inputs, enabling a disentangled analysis of clean images and adversarial perturbations. This analysis reveals that universal perturbations contain dominant features while images behave like noise, motivating a new method for generating targeted UAPs from random images. Our approach is the first to achieve targeted universal attacks without access to original training data and performs comparably against state-of-the-art methods using only a proxy dataset.</p>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/data-from-model.png" alt="Data from Model">
+    <img src="assets/img/pubs/data-from-model.png" alt="Data from Model">
   </div>
   <div class="pub-content">
     <h3><a href="https://adv-workshop-2020.github.io/short_papers/45.pdf">Data from Model: Extracting Data from Non-robust and Robust Models</a></h3>
@@ -196,7 +196,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="./assets/img/pubs/uap-features.png" alt="Universal Adversarial Perturbations are not Bugs">
+    <img src="assets/img/pubs/uap-features.png" alt="Universal Adversarial Perturbations are not Bugs">
   </div>
   <div class="pub-content">
     <h3><a href="https://adv-workshop-2020.github.io/short_papers/46.pdf">Universal Adversarial Perturbations are Not Bugs, They are Features</a></h3>
