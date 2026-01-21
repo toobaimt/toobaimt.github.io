@@ -22,7 +22,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 Sept 2021 - Present\
 Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.github.io/). -->
 
-<img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; June 2025 ~ \
+<img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; June - November 2025 \
 &nbsp;&nbsp; Student Researcher, Pixel Biometrics AI Research (BAIR), Google, Seattle WA
 
 
