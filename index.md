@@ -58,6 +58,7 @@ Graduate Research Assistant at Machine Learning Lab, [SPIRAL](https://mllabneu.g
 
 
 ## News
+- [01/29/2026] Got featured in an [article](https://coe.northeastern.edu/news/ai-innovation-through-diverse-collaboration/) by Northeastern College of Engineering.
 - [12/01/2025] I will be interning with the Perception Team at [Waymo](https://waymo.com/research/) in Summer 2026.
 - [08/10/2025] Thrilled to share that my research internship work with Google Beam ["LVT: Large-Scale Scene Reconstruction via Local View Transformers"](https://toobaimt.github.io/lvt/) got accepted at SIGGRAPH Asia 2025!
 - [04/20/2025] I will be interning with the Pixel Biometrics AI Research team at Google this Summer.
