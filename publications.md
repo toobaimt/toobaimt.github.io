@@ -80,6 +80,19 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
+    <img src="/assets/img/pubs/cdrcm.png" alt="LVT">
+  </div>
+  <div class="pub-content">
+    <h3>CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy</h3>
+    <p class="pub-conference">Under Review</p>
+    <p class="pub-authors"><strong>Tooba Imtiaz</strong>, Milind Rajadhyaksha, Kivanc Kose*, Jennifer Dy*.
+    Northeastern University</p>
+    <p class="pub-details">CD-RCM is a transformer-based framework for continuous-depth novel-view synthesis in RCM imaging of human skin. It combines geometric conditioning with skin-specific perceptual supervision for high-fidelity reconstruction in a single inference pass.</p>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
     <img src="/assets/img/pubs/lvt.png" alt="LVT">
   </div>
   <div class="pub-content">
