@@ -80,7 +80,7 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
-    <img src="/assets/img/pubs/cdrcm.png" alt="LVT">
+    <img src="/assets/img/pubs/cdrcm.png" alt="CDRCM">
   </div>
   <div class="pub-content">
     <h3>CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy</h3>
