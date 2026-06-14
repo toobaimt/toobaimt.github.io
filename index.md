@@ -11,10 +11,9 @@ I am currently interning at Waymo with the Perception Team, working on sensor fu
 Besides my academic interests, I enjoy community service and reading biographies.
 
 ## Research Interests
-- 3D computer vision (reconstruction, diffusion models)
+- 3D computer vision (reconstruction, novel view sythesis, diffusion models)
 - Adversarial attacks for robust and interpretable ML
-- 3D object detection, representation learning and reconstruction
-- 2D object detection, segmentation and tracking
+- 3D and 2D object detection, representation learning, segmentation, tracking
 
 
 ## Work Experience
@@ -24,26 +23,17 @@ Besides my academic interests, I enjoy community service and reading biographies
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; June - November 2025 \
 &nbsp;&nbsp; Student Researcher, Pixel Biometrics AI Research (BAIR), Google, Seattle WA
 
-
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May 2024 - May 2025 \
 &nbsp;&nbsp; Research Intern, [Google Beam](https://starline.google/), Google, Playa Vista, CA
-
-
 
 <img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Present\
 &nbsp;&nbsp; Graduate Research Assistant at [Machine Learning Lab](https://mllabneu.github.io/), [SPIRAL](https://web.northeastern.edu/spiral/)
 
-
-
 <img src="assets/img/EH.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2020 - Aug 2021\
 &nbsp;&nbsp; External Consultant for ML and AI
 
-
-
 <img src="assets/img/kaist.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2018 - Aug 2020\
 &nbsp;&nbsp; Graduate Research Assistant at [Robotics and Computer Vision (RCV) Lab](http://rcv.kaist.ac.kr/index.php?mid=rcv_01_01)
-
-
 
 <img src="assets/img/nust.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2015 - May 2018\
 &nbsp;&nbsp; Research Intern at [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
@@ -53,13 +43,14 @@ Besides my academic interests, I enjoy community service and reading biographies
 
 
 ## News
+- [06/06/2026] Pre-print of our paper [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is now live.
 - [01/29/2026] Got featured in an [article](https://coe.northeastern.edu/news/ai-innovation-through-diverse-collaboration/) by Northeastern College of Engineering.
-- [12/01/2025] I will be interning with the Perception Team at [Waymo](https://waymo.com/research/) in Summer 2026.
+- [12/01/2025] I will be interning with the Perception Team at [Waymo](https://waymo.com/research/) in Summer 2026! 🚙
 - [08/10/2025] Thrilled to share that my research internship work with Google Beam ["LVT: Large-Scale Scene Reconstruction via Local View Transformers"](https://toobaimt.github.io/lvt/) got accepted at SIGGRAPH Asia 2025!
 - [04/20/2025] I will be interning with the Pixel Biometrics AI Research team at Google this Summer.
 - [01/22/2025] Our paper ["STAR: Stability-Inducing Weight Perturbation for Continual Learning"](https://openreview.net/forum?id=6N5OM5Duuj) got accepted at ICLR 2025.
 - [01/05/2025] Our paper ["ADAPT to Robustify Prompt Tuning Vision Transformers"](https://arxiv.org/pdf/2403.13196) got accepted at TMLR.
-- [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer!
+- [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer! 🌟
 - [05/01/2023] I will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
 - [12/01/2022] Passed my PhD Qualification Exam.
 - [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022).
@@ -68,7 +59,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 - [06/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of Professor In So Kweon.
 - [06/15/2020] Successfully defended my Master's thesis titled "Occlusion-Robust Object Re-identification".
 - [12/20/2019] Gave an invited talk about my research on adversarial attacks at [KEEP-I (KAIST EE Partners - International)](https://ee.kaist.ac.kr/en/event/17315/).
-- [09/06/2019] Delivered an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
+- [09/06/2019] Gave an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
 - [09/01/2018] Started my Master's at KAIST supervised by [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ).
 
 <!-- ## Selected Projects
