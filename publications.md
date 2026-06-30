@@ -93,6 +93,32 @@ title: Publications
 
 <div class="pub-entry">
   <div class="pub-thumbnail">
+    <img src="/assets/img/pubs/humancog.png" alt="HumanCog">
+  </div>
+  <div class="pub-content">
+    <h3><a href="https://arxiv.org/abs/2604.16592">Human Cognition in Machines: A Unified Perspective of World Models</a></h3>
+    <p class="pub-conference">Pre-print</p>
+    <p class="pub-authors">Timothy Rupprecht*, Pu Zhao*, Amir Taherin*, Arash Akbari*, Arman Akbari*, Yumei He*, <strong>Tooba Imtiaz*</strong>, et al.
+    Northeastern University</p>
+    <p class="pub-details">This report distinguishes world models by the cognitive functions they innovate, grounding claims of human-like capability in human and machine cognition theory. We present a unified framework spanning memory, perception, language, reasoning, imagination, motivation, and metacognition; identify motivation and metacognition as key gaps; propose directions informed by active inference and global workspace theory; and introduce epistemic world models for scientific discovery over structured knowledge.</p>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
+    <img src="/assets/img/pubs/panoworld.png" alt="PanoWorld">
+  </div>
+  <div class="pub-content">
+    <h3><a href="https://arxiv.org/abs/2605.15391">PanoWorld: Geometry-Consistent Panoramic Video World Modeling</a></h3>
+    <p class="pub-conference">Pre-print</p>
+    <p class="pub-authors">Le Jiang, Xiangyu Bai, Bishoy Galoaa, Shayda Moezzi, Caleb James Lee, <strong>Tooba Imtiaz</strong>, Edmund Yeh, Jennifer Dy, Yanzhi Wang, Sarah Ostadabbas.
+    Northeastern University</p>
+    <p class="pub-details">PanoWorld is a panoramic (360° equirectangular) video world model that takes a single perspective image plus a text prompt to produce full-sphere video, with depth, trajectories, and pole regions that stay self-consistent. It treats panoramic video generation as a geometry- and dynamics-consistent latent-state modeling problem rather than pure visual synthesis.</p>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-thumbnail">
     <img src="/assets/img/pubs/lvt.png" alt="LVT">
   </div>
   <div class="pub-content">
