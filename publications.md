@@ -64,6 +64,7 @@ title: Publications
 .pub-authors {
   color: #555;
   margin: 0.3em 0;
+  white-space: pre-line;
 }
 
 @media (max-width: 768px) {
