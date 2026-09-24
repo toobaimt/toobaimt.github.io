@@ -110,7 +110,7 @@ title: Publications
   </div>
   <div class="pub-content">
     <h3><a href="https://arxiv.org/abs/2605.15391">PanoWorld: Geometry-Consistent Panoramic Video World Modeling</a></h3>
-    <p class="pub-conference">Pre-print</p>
+    <p class="pub-conference">NeurIPS 2026</p>
     <p class="pub-authors">Le Jiang, Xiangyu Bai, Bishoy Galoaa, Shayda Moezzi, Caleb James Lee, <strong>Tooba Imtiaz</strong>, Edmund Yeh, Jennifer Dy, Yanzhi Wang, Sarah Ostadabbas.
     Northeastern University</p>
     <p class="pub-details">PanoWorld is a panoramic (360° equirectangular) video world model that takes a single perspective image plus a text prompt to produce full-sphere video, with depth, trajectories, and pole regions that stay self-consistent. It treats panoramic video generation as a geometry- and dynamics-consistent latent-state modeling problem rather than pure visual synthesis.</p>
