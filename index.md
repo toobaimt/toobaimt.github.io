@@ -43,7 +43,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 
 
 ## News
-- [09/24/2026] Excited to share that [CD-RCM](https://arxiv.org/pdf/2606.12635) is accepted at NeurIPS 2026 for a poster presentation!!
+- [09/24/2026] Excited to share that [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is accepted at NeurIPS 2026 for a poster presentation!
 - [06/25/2026] Presented LVT at [Voxel51's AI, ML and CV Meetup](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-june-25-2026).
 - [06/06/2026] Pre-print of our paper [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is now live.
 - [01/29/2026] Got featured in an [article](https://coe.northeastern.edu/news/ai-innovation-through-diverse-collaboration/) by Northeastern College of Engineering.
