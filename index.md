@@ -6,7 +6,7 @@ subtitle: PhD Student | Computer Vision/Machine Learning
 
 I am a PhD candidate in Electrical Engineering at [Northeastern University](https://www.northeastern.edu/), working with the [Machine Learning group @ SPIRAL](https://mllabneu.github.io/) supervised by [Professor Jennifer Dy](https://scholar.google.com/citations?user=6h7b0fAAAAAJ&hl=en). My current research interests include 3D computer vision (particularly 3D reconstruction and novel-view synthesis), generative modeling, continual learning, adversarial attacks, and leveraging them for interpretability. Additionally, I have worked on unsupervised 3D reconstruction and classification, time-series forecasting and implicit neural networks. 
 
-I am currently interning at Waymo with the Perception Team, working on sensor fusion. Previously, I interned with Google Pixel Biometrics AI Research (BAIR) team, where I worked on multi-view diffusion models. I also interned with Google's Project Starline (now Google Beam) and developed a novel feed-forward framework for efficient and scalable 3D reconstruction and NVS, achieving state-of-the-art performance in a single inference pass.
+This summer, I interned at Waymo with the Perception Team, working on sensor fusion. Previously, I interned with Google's Project Starline (now Google Beam) and developed a novel feed-forward framework for efficient and scalable 3D reconstruction and NVS, achieving state-of-the-art performance in a single inference pass.
 
 Besides my academic interests, I enjoy community service and reading biographies.
 
@@ -26,7 +26,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 <img src="assets/img/google-logo.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May 2024 - May 2025 \
 &nbsp;&nbsp; Research Intern, [Google Beam](https://starline.google/), Google, Playa Vista, CA
 
-<img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Present\
+<img src="assets/img/neu_logo.png" float="left" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2021 - Dec 2026\
 &nbsp;&nbsp; Graduate Research Assistant at [Machine Learning Lab](https://mllabneu.github.io/), [SPIRAL](https://web.northeastern.edu/spiral/)
 
 <img src="assets/img/EH.png" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; Sept 2020 - Aug 2021\
@@ -43,6 +43,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 
 
 ## News
+- [10/16/2026] Successfully defended my PhD Thesis Proposal, titled "Robust and Generalizable Deep Models for Visual Understanding: From Adversarial Perturbations to Feedforward View Synthesis"
 - [09/24/2026] Excited to share that [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is accepted at NeurIPS 2026 for a poster presentation!
 - [06/25/2026] Presented LVT at [Voxel51's AI, ML and CV Meetup](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-june-25-2026).
 - [06/06/2026] Pre-print of our paper [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is now live.
