@@ -43,6 +43,7 @@ Besides my academic interests, I enjoy community service and reading biographies
 
 
 ## News
+- [11/12/2026] Presented CD-RCM at [Voxel51's Boston Physical AI Workshop and Meetup](https://voxel51.com/events/boston-physical-ai-workshop-and-meetup-november-12-2026).
 - [10/16/2026] Successfully defended my PhD Thesis Proposal, titled "Robust and Generalizable Deep Models for Visual Understanding: From Adversarial Perturbations to Feedforward View Synthesis"
 - [09/24/2026] Excited to share that [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is accepted at NeurIPS 2026 for a poster presentation!
 - [06/25/2026] Presented LVT at [Voxel51's AI, ML and CV Meetup](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-june-25-2026).
