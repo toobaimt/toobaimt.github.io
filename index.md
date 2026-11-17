@@ -40,21 +40,18 @@ Besides my academic interests, I enjoy community service and reading biographies
 
 
 ## News
-{% for item in site.data.news limit:13 %}
-- {{ item }}
+{% for item in site.data.news limit:13 %}- {{ item }}
 {% endfor %}
 
 ## Talks
 
 **CD-RCM @ Voxel51's Boston Physical AI Workshop**
-
-<div style="position: relative; width: 100%; max-width: 560px; aspect-ratio: 16 / 9;">
+<div style="position: relative; width: 80vw; max-width: 100%; aspect-ratio: 16 / 9;">
   <iframe src="https://www.youtube-nocookie.com/embed/CoiEdSo24i0" title="Talk on CD-RCM at Voxel51's Boston Physical AI Workshop" style="position: absolute; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 **LVT @ Voxel51's AI, ML and CV Meetup**
-
-<div style="position: relative; width: 100%; max-width: 560px; aspect-ratio: 16 / 9;">
+<div style="position: relative; width: 80vw; max-width: 100%; aspect-ratio: 16 / 9;">
   <iframe src="https://www.youtube-nocookie.com/embed/i3MCZFfQcjs" title="Talk on LVT at Voxel51's AI, ML and CV Meetup" style="position: absolute; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
