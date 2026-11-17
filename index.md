@@ -39,42 +39,32 @@ Besides my academic interests, I enjoy community service and reading biographies
 &nbsp;&nbsp; Research Intern at [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
 
 
-
-
-
 ## News
-- [11/12/2026] Presented CD-RCM at [Voxel51's Boston Physical AI Workshop and Meetup](https://voxel51.com/events/boston-physical-ai-workshop-and-meetup-november-12-2026).
-- [10/16/2026] Successfully defended my PhD Thesis Proposal, titled "Robust and Generalizable Deep Models for Visual Understanding: From Adversarial Perturbations to Feedforward View Synthesis"
-- [09/24/2026] Excited to share that [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is accepted at NeurIPS 2026 for a poster presentation!
-- [06/25/2026] Presented LVT at [Voxel51's AI, ML and CV Meetup](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-june-25-2026).
-- [06/06/2026] Pre-print of our paper [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](https://arxiv.org/pdf/2606.12635) is now live.
-- [01/29/2026] Got featured in an [article](https://coe.northeastern.edu/news/ai-innovation-through-diverse-collaboration/) by Northeastern College of Engineering.
-- [12/01/2025] I will be interning with the Perception Team at [Waymo](https://waymo.com/research/) in Summer 2026! 🚙
-- [08/10/2025] Thrilled to share that my research internship work with Google Beam ["LVT: Large-Scale Scene Reconstruction via Local View Transformers"](https://toobaimt.github.io/lvt/) got accepted at SIGGRAPH Asia 2025!
-- [04/20/2025] I will be interning with the Pixel Biometrics AI Research team at Google this Summer.
-- [01/22/2025] Our paper ["STAR: Stability-Inducing Weight Perturbation for Continual Learning"](https://openreview.net/forum?id=6N5OM5Duuj) got accepted at ICLR 2025.
-- [01/05/2025] Our paper ["ADAPT to Robustify Prompt Tuning Vision Transformers"](https://arxiv.org/pdf/2403.13196) got accepted at TMLR.
-- [03/16/2024] I will be interning with the [Project Starline](https://blog.google/technology/research/project-starline/) team at Google this Summer! 🌟
-- [05/01/2023] I will be serving as a workflow chair for [AAAI 2024](https://aaai.org/aaai-conference/).
-- [12/01/2022] Passed my PhD Qualification Exam.
-- [07/18/2022] Presented my research on Sparse and Interpretable Adversarial Attacks at WiML Workshop @ [ICML'22](https://icml.cc/Conferences/2022).
-- [09/01/2021] Started my PhD at Northeastern University, under the supervision of [Professor Jennifer Dy](https://mllabneu.github.io/).
-- [09/01/2020] Starting working as a Consultant for ML/AI at [Endress+Hauser, Germany](https://www.endress.com/en) (remote).
-- [06/28/2020] Completed my MS in Electrical Engineering at KAIST under the supervision of Professor In So Kweon.
-- [06/15/2020] Successfully defended my Master's thesis titled "Occlusion-Robust Object Re-identification".
-- [12/20/2019] Gave an invited talk about my research on adversarial attacks at [KEEP-I (KAIST EE Partners - International)](https://ee.kaist.ac.kr/en/event/17315/).
-- [09/06/2019] Gave an invited talk reflecting on my academic and overall experience at KAIST at [KAIST EE camp](https://ee.kaist.ac.kr/en/event/17081/).
-- [09/01/2018] Started my Master's at KAIST supervised by [Professor In So Kweon](https://scholar.google.com/citations?hl=en&user=XA8EOlEAAAAJ).
+{% for item in site.data.news limit:13 %}
+- {{ item }}
+{% endfor %}
 
-<!-- ## Selected Projects
-Updating soon. -->
+## Talks
+
+**CD-RCM @ Voxel51's Boston Physical AI Workshop**
+
+<div style="position: relative; width: 100%; max-width: 560px; aspect-ratio: 16 / 9;">
+  <iframe src="https://www.youtube-nocookie.com/embed/CoiEdSo24i0" title="Talk on CD-RCM at Voxel51's Boston Physical AI Workshop" style="position: absolute; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+**LVT @ Voxel51's AI, ML and CV Meetup**
+
+<div style="position: relative; width: 100%; max-width: 560px; aspect-ratio: 16 / 9;">
+  <iframe src="https://www.youtube-nocookie.com/embed/i3MCZFfQcjs" title="Talk on LVT at Voxel51's AI, ML and CV Meetup" style="position: absolute; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## Teaching
-- [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University: Teaching Assistant with Professor Jennifer Dy.
+- Teaching Assistant for [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University.
 
 ## Academic Service
 - Workflow Chair: AAAI 2024
   - Managed the AAAI 2024 paper review process for 12,100 submissions, working with 7k reviewers, 765 senior program committee (SPC), and 320 area chairs (AC).
   - Used topic modeling and text similarity to determine reviewer, SPC, and AC assignments.
-- Conference Reviewer: AAAI 2026, NeurIPS 2025, ICLR 2025-26, CVPR 2024, ECCV 2024, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
+- Conference Reviewer: AAAI 2027, NeurIPS 2025-26, ICLR 2025-26, CVPR 2024, ECCV 2024, ACCV 2024, ICCV 2023, NeurIPS 2023 (New in ML Workshop)
 - Volunteer: ICML 2022
