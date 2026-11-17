@@ -10,13 +10,13 @@ This summer, I interned at Waymo with the Perception Team, working on sensor fus
 
 Besides my academic interests, I enjoy community service and reading biographies.
 
-## Research Interests
+<h2 style="margin-top: 2em;">Research Interests</h2>
 - 3D computer vision (reconstruction, novel view sythesis, diffusion models)
 - Adversarial attacks for robust and interpretable ML
 - 3D and 2D object detection, representation learning, segmentation, tracking
 
 
-## Work Experience
+<h2 style="margin-top: 2em;">Work Experience</h2>
 <img src="assets/img/waymo-logo.svg" width="60" height="60" style="float: left" margin-right="30px"/> &nbsp;&nbsp; May - August 2026 \
 &nbsp;&nbsp; PhD Intern, Perception Team, Waymo, Mountain View CA
 
@@ -39,11 +39,11 @@ Besides my academic interests, I enjoy community service and reading biographies
 &nbsp;&nbsp; Research Intern at [TUKL NUST R&D Centre](https://tukl.seecs.nust.edu.pk/)
 
 
-## News
+<h2 style="margin-top: 2em;">News</h2>
 {% for item in site.data.news limit:13 %}- {{ item }}
 {% endfor %}
 
-## Talks
+<h2 style="margin-top: 2em;">Talks</h2>
 
 **CD-RCM @ Voxel51's Boston Physical AI Workshop**
 <div style="position: relative; width: 80vw; max-width: 100%; aspect-ratio: 16 / 9;">
@@ -56,10 +56,10 @@ Besides my academic interests, I enjoy community service and reading biographies
 </div>
 
 
-## Teaching
+<h2 style="margin-top: 2em;">Teaching</h2>
 - Teaching Assistant for [EECE7397 Advanced Machine Learning](https://www.coursicle.com/neu/courses/EECE/7397/), Northeastern University.
 
-## Academic Service
+<h2 style="margin-top: 2em;">Academic Service</h2>
 - Workflow Chair: AAAI 2024
   - Managed the AAAI 2024 paper review process for 12,100 submissions, working with 7k reviewers, 765 senior program committee (SPC), and 320 area chairs (AC).
   - Used topic modeling and text similarity to determine reviewer, SPC, and AC assignments.
