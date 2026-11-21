@@ -84,7 +84,7 @@ title: Publications
     <img src="/assets/img/pubs/cdrcm.png" alt="CDRCM">
   </div>
   <div class="pub-content">
-    <h3><a href="https://arxiv.org/pdf/2606.12635">CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy</a></h3>
+    <h3><a href="https://toobaimt.github.io/cd-rcm/">CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy</a></h3>
     <p class="pub-conference">NeurIPS 2026</p>
     <p class="pub-authors"><strong>Tooba Imtiaz</strong>, Milind Rajadhyaksha, Kivanc Kose*, Jennifer Dy*.
     Northeastern University</p>
