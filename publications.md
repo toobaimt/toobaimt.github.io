@@ -110,7 +110,7 @@ title: Publications
     <img src="/assets/img/pubs/panoworld.png" alt="PanoWorld">
   </div>
   <div class="pub-content">
-    <h3><a href="https://arxiv.org/abs/2605.15391">PanoWorld: Geometry-Consistent Panoramic Video World Modeling</a></h3>
+    <h3><a href="https://zzzura-secure.duckdns.org/pano">PanoWorld: Geometry-Consistent Panoramic Video World Modeling</a></h3>
     <p class="pub-conference">NeurIPS 2026</p>
     <p class="pub-authors">Le Jiang, Xiangyu Bai, Bishoy Galoaa, Shayda Moezzi, Caleb James Lee, <strong>Tooba Imtiaz</strong>, Edmund Yeh, Jennifer Dy, Yanzhi Wang, Sarah Ostadabbas.
     Northeastern University</p>
